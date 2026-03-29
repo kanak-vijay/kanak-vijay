@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi, I'm Kanak 👋✨
 
-<!--
-**kanak-vijay/kanak-vijay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 B.Tech CSE Student | Second Year  
+🚀 Currently learning Data Structures & Algorithms (DSA) in C++  
+🌱 Exploring Web Dev & Core Programming Concepts  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌸 About Me
+- 🎯 Focused on building strong problem-solving skills  
+- 🧠 Currently practicing DSA using C++  
+- ☕ Have basic knowledge of Java  
+- 💡 Interested in development + core CS concepts  
+
+---
+
+## 🚀 Skills
+- 💻 C
+- 💻 C++ (DSA)  
+- ☕ Java (Basics)  
+- 🐍 Python  
+- 🌐 HTML, CSS  
+
+---
+
+## 📊 GitHub Stats
+![Kanak's GitHub stats](https://github-readme-stats.vercel.app/api?username=kanak-vijay&show_icons=true&theme=tokyonight)
+
+---
+
+## 🔥 Streak Stats
+![GitHub Streak](https://streak-stats.demolab.com?user=kanak-vijay&theme=tokyonight)
+
+---
+
+## 🧠 Current Focus
+- 📌 Data Structures (Arrays, Linked List, Stack, Queue)  
+- 📌 Problem Solving (LeetCode / Practice)  
+- 📌 Strengthening C++ Concepts  
+
+---
+
+## 💫 Fun Line
+_"Consistency > Motivation | Coding one step at a time 🚀"_
