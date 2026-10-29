@@ -1,9 +1,9 @@
 <!-- 🌌 ANIMATED LAVENDER HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=blur&height=220&color=0:cdb4db,100:a0c4ff&section=header&text=Kanak Vijay&fontSize=45&fontColor=ffffff&animation=twinkling"/>
+  <img src="https://capsule-render.vercel.app/api?type=blur&height=220&color=0:cdb4db,100:a0c4ff&section=header&text=Kanak&fontSize=45&fontColor=ffffff&animation=twinkling"/>
 </p>
 
-<h2 align="center">Hey, I'm Kanak 🌙</h2>
+<h2 align="center">Hey, I'm Kanak🌙</h2>
 <h2 align="center">Computer Science Student</h2>
 
 <p align="center">
