@@ -1,9 +1,10 @@
 <!-- 🌌 ANIMATED LAVENDER HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=blur&height=220&color=0:cdb4db,100:a0c4ff&section=header&text=Kanak&fontSize=45&fontColor=ffffff&animation=twinkling"/>
+  <img src="https://capsule-render.vercel.app/api?type=blur&height=220&color=0:cdb4db,100:a0c4ff&section=header&text=Kanak Vijay&fontSize=45&fontColor=ffffff&animation=twinkling"/>
 </p>
 
 <h2 align="center">Hey, I'm Kanak 🌙</h2>
+<h2 align="center">Computer Science Student</h2>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3500&pause=2000&repeat=false&center=true&vCenter=true&width=500&lines=learning+deeply+%E2%9C%A8&color=cdb4db"/>
