@@ -8,11 +8,7 @@
   <img src="assets/terminal.svg" alt="about kanak" width="680"/>
 </p>
 
-<!-- 🗺️ ROADMAP -->
-<p align="center">
-  <img src="assets/t-roadmap.svg" alt="roadmap" width="680"/>
-  <img src="assets/roadmap.svg" alt="learning roadmap" width="680"/>
-</p>
+
 
 <!-- 🧰 TECH STACK -->
 <p align="center">
