@@ -1,104 +1,48 @@
-<!-- 🌌 ANIMATED LAVENDER HEADER -->
+<!-- 🌙 HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=blur&height=220&color=0:cdb4db,100:a0c4ff&section=header&text=Kanak&fontSize=45&fontColor=ffffff&animation=twinkling"/>
+  <img src="assets/header.svg" alt="Kanak - Computer Science Student" width="100%"/>
 </p>
 
-<h2 align="center">Hey, I'm Kanak🌙</h2>
-<h2 align="center">Computer Science Student</h2>
-
+<!-- 💻 ABOUT (terminal) -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3500&pause=2000&repeat=false&center=true&vCenter=true&width=500&lines=learning+deeply+%E2%9C%A8&color=cdb4db"/>
+  <img src="assets/terminal.svg" alt="about kanak" width="680"/>
 </p>
 
+<!-- 🗺️ ROADMAP -->
 <p align="center">
-  <i>turning confusion into clarity, one concept at a time</i>
+  <img src="assets/t-roadmap.svg" alt="roadmap" width="680"/>
+  <img src="assets/roadmap.svg" alt="learning roadmap" width="680"/>
 </p>
 
----
-
-## 🧠 Coding Journey
-
-- 🌱 Started with programming fundamentals  
-- 💻 Currently focusing on **DSA using C++**  
-- 🧩 Building logic instead of rushing
-- 📊 Web Development   
-
---
-
-## 🎯 Current Focus
-
-- 🚀 Programming Fundamentals & Object-Oriented Concepts 
-- 🚀 Consistent DSA practice  
-- 🧠 Strong problem-solving skills  
-- 🔁 Writing clean and structured code  
-- ⏳ Software Engineering  
-
----
-
-## 💻 Tech Stack
-
+<!-- 🧰 TECH STACK -->
 <p align="center">
-
-![C++](https://img.shields.io/badge/c++-%23bdb2ff.svg?style=flat&logo=c%2B%2B&logoColor=black)
-![C](https://img.shields.io/badge/c-%23bdb2ff.svg?style=flat&logo=c&logoColor=black)
-![JavaScript](https://img.shields.io/badge/javascript-%23cdb4db.svg?style=flat&logo=javascript&logoColor=black)
-![CSS3](https://img.shields.io/badge/css3-%23a0c4ff.svg?style=flat&logo=css3&logoColor=black)
-![HTML5](https://img.shields.io/badge/html5-%23ffc8dd.svg?style=flat&logo=html5&logoColor=black)
-![Java](https://img.shields.io/badge/java-%23bde0fe.svg?style=flat&logo=openjdk&logoColor=black)
-![Anaconda](https://img.shields.io/badge/Anaconda-%23caffbf.svg?style=flat&logo=anaconda&logoColor=black)
-![MySQL](https://img.shields.io/badge/mysql-%23a0c4ff.svg?style=flat&logo=mysql&logoColor=black)
-![Canva](https://img.shields.io/badge/Canva-%23cdb4db.svg?style=flat&logo=Canva&logoColor=black)
-![Pandas](https://img.shields.io/badge/pandas-%23bdb2ff.svg?style=flat&logo=pandas&logoColor=black)
-![NumPy](https://img.shields.io/badge/numpy-%23a0c4ff.svg?style=flat&logo=numpy&logoColor=black)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
-
+  <img src="assets/t-tech.svg" alt="tech stack" width="680"/>
+  <img src="assets/techstack.svg" alt="tech stack" width="680"/>
 </p>
 
----
-
-## 📊 GitHub Flow
-
+<!-- 📊 GITHUB FLOW -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kanak-vijay&show_icons=true&theme=tokyonight&hide_border=true&title_color=cdb4db&icon_color=bde0fe"/>
+  <img src="assets/t-github.svg" alt="github flow" width="680"/>
+  <img src="https://streak-stats.demolab.com?user=kanak-vijay&theme=dark&background=14122b&border=3b3770&border_radius=14&ring=cdb4db&fire=ffc8dd&currStreakNum=ffc8dd&currStreakLabel=cdb4db&sideNums=a0c4ff&sideLabels=a0c4ff&dates=8f8fc2" alt="github streak" width="520"/>
 </p>
 
+<!-- 🧩 PERSPECTIVE -->
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=kanak-vijay&theme=tokyonight&hide_border=true&ring=cdb4db&fire=bde0fe"/>
+  <img src="assets/t-perspective.svg" alt="perspective" width="680"/>
+  <img src="assets/quote.svg" alt="clarity comes from staying with the problem a little longer" width="680"/>
 </p>
 
----
-
-## 🧩 Perspective
-
-> clarity comes from staying with the problem a little longer  
-
----
-
-## 🌐 Connect
-
+<!-- 🌐 CONNECT -->
 <p align="center">
-  <a href="https://github.com/kanak-vijay">
-    <img src="https://img.shields.io/badge/GitHub-121013?style=flat&logo=github&logoColor=white"/>
-  </a>
-  
-  <a href="https://www.linkedin.com/in/kanak-vijay-1b1a9234b">
-    <img src="https://img.shields.io/badge/LinkedIn-bde0fe?style=flat&logo=linkedin&logoColor=black"/>
-  </a>
+  <img src="assets/t-connect.svg" alt="connect" width="680"/>
+</p>
+<p align="center">
+  <a href="https://github.com/kanak-vijay"><img src="assets/btn-github.svg" alt="GitHub" width="190"/></a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/kanak-vijay-1b1a9234b"><img src="assets/btn-linkedin.svg" alt="LinkedIn" width="190"/></a>
 </p>
 
----
-
-<!-- ✨ FOOTER QUOTE (HIGHLIGHTED) -->
+<!-- 🌊 FOOTER -->
 <p align="center">
-  <b>✨ consistency creates confidence — and confidence builds everything ✨</b>
-</p>
-
-<p align="center">
-  <i>still learning, still growing, still showing up 💜</i>
-</p>
-
-<!-- 🌊 ANIMATED FOOTER -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:bde0fe,100:cdb4db&section=footer"/>
+  <img src="assets/footer.svg" alt="consistency creates confidence" width="100%"/>
 </p>
