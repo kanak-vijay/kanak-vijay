@@ -8,7 +8,11 @@
   <img src="assets/terminal.svg" alt="about kanak" width="680"/>
 </p>
 
-
+<!-- 🌱 CURRENTLY WORKING ON -->
+<p align="center">
+  <img src="assets/t-working.svg" alt="currently working on" width="680"/>
+  <img src="assets/working.svg" alt="deepening programming fundamentals, building small web apps, improving code quality, learning software engineering practices" width="680"/>
+</p>
 
 <!-- 🧰 TECH STACK -->
 <p align="center">
