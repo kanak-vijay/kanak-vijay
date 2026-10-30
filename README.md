@@ -37,7 +37,7 @@
   <img src="assets/t-connect.svg" alt="connect" width="680"/>
 </p>
 <p align="center">
-  <a href="https://github.com/kanak-vijay"><img src="assets/btn-github.svg" alt="GitHub" width="190"/></a>
+  <a href="mailto:kanakvijay10@gmail.com"><img src="assets/btn-mail.svg" alt="Gmail" width="190"/></a>
   &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/kanak-vijay-1b1a9234b"><img src="assets/btn-linkedin.svg" alt="LinkedIn" width="190"/></a>
 </p>
